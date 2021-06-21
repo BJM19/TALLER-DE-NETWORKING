@@ -2,11 +2,11 @@
 ## Empezando
 
 Las instrucciones que encontrara a continuación le proporcionaran una copia del programa en funcionamiento en su máquina local.
-##Ejercicios
-###1
+## Ejercicios
+### 1
 Ejercicio 1 LeerRrl indica los 8 metodos para conocer los componentes de una URL
-![](imgs/prueb2.png)
-###2
+![](imgs/prueba2.png)
+### 2
 Ejercicio 2 paquete LeerInformacionUrl para leer el contenido de una URL. Se realizo la prueba copiando el html resultado luego de leer el contenido, como ejemplo mercadolibre:
 ![](imgs/prueba.png)
 ### Prerrequisitos
