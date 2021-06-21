@@ -6,7 +6,7 @@ import java.net.URL;
 public class leerurl {
 
     /**
-     * Esta clase sirve para conocer los 8 metodos base para conocer de que manera esta formada una URL
+     * Esta clase sirve para conocer los 8 metodos con los componentes de una URL
      * @param args
      * @throws MalformedURLException
      */

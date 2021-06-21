@@ -1,4 +1,4 @@
-package edu.escuelaing.ARSW.ASE.app.LeerUrl.LeerInformacionUrl;
+package edu.escuelaing.ARSW.ASE.app.LeerInformacionUrl;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
