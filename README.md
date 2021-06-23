@@ -9,6 +9,10 @@ Ejercicio 1 LeerRrl indica los 8 metodos para conocer los componentes de una URL
 ### 2
 Ejercicio 2 paquete LeerInformacionUrl para leer el contenido de una URL. Se realizo la prueba copiando el html resultado luego de leer el contenido, como ejemplo mercadolibre:
 ![](imgs/prueba.png)
+### 3
+Ejercicio 3 paquete raiz, implementación de la clase servidor y cliente donde el cliente indica un numero y el servidor le devuelve el cuadrado del numero
+### 4
+Ejercicio 4 paquete calculadora , implementación de la clase servidor y cliente donde el cliente indica que operacion quiere realizar (sin,cosa,tan) y servidor responde con dicha operació hasta que se haga el cambio.
 ### Prerrequisitos
 
 Para poder utilizar esta aplicación se deben tener instalados los siguientes software:
@@ -29,6 +33,8 @@ Java
 ## Autores
 
 * **Brayan Alexis Jiménez Moya**
+## Loc
+334 lineas en 11 horas 30 lineas codigo por hora en promedio
 
 ## Fechas
 
